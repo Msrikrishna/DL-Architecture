@@ -1,1 +1,20 @@
+﻿Documentation
+(DL Architecture)
 
+Recent advancements in Deep Learning:
+
+Ref: https://www.analyticsvidhya.com/blog/2017/08/10-advanced-deep-learning-architectures-data-scientists/
+ 
+
+Architectures which have been successful in Computer Vision domain.
+ImageNet - Database for ILSVR (ImageNet Large Scale Visual Recognition) challenge.
+
+
+
+Alexnet – First deep neural network (Starting point for Image/Audio recognition purposes)
+Pooling is a concept in deep learning visual object recognition that goes hand-in-hand with convolution. The idea is that a convolution (or a local neural networkfeature detector) maps a region of an image to a feature map.
+The softmax function is used in various multiclass classification methods, such as multinomial logistic regression (also known assoftmax regression) [1], multiclass linear discriminant analysis, naive Bayes classifiers, and artificial neural networks.
+GAN (Generative Adversarial Network)
+
+Here both Generator and Discriminator get smart over the time. Each part gets better at pattern recognition. Think of all the useful applications. Gmaps genertaion etc
+Analogy:    Investigator and forger example
